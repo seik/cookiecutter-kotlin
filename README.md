@@ -31,6 +31,7 @@ group [my.package.projectname]: my.package.projectname
 version [0.0.1-SNAPSHOT]: 0.0.1-SNAPSHOT
 kotlin_version [1.2.10]: 1.2.10
 gradle_version [3.5-rc-2]: 3.5-rc-2
+use_git [y]: y
 ```
 
 Your project has been generated!:
@@ -40,7 +41,7 @@ $ cd projectname/
 $ ls
 ```
 
-Push it to your repo:
+Push it to your repo (If you have already selected git option on the generation there is no need to init and commit ✨):
 ```console
 $ git init
 $ git add .
