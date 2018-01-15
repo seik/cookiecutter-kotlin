@@ -1,7 +1,7 @@
-# cookiecutter-kotlin
+# Cookiecutter Kotlin
+[![Build Status](https://travis-ci.org/Seik/cookiecutter-kotlin.svg?branch=master)](https://travis-ci.org/Seik/cookiecutter-kotlin)
 
 A [cookiecutter](https://github.com/audreyr/cookiecutter) template for [Gradle](http://gradle.org) based [Kotlin](http://kotlinlang.org) projects.
-
 ## Usage
 
 First, get Cookiecutter. Trust me, it's awesome:
