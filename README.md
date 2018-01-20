@@ -1,5 +1,5 @@
 # Cookiecutter Kotlin
-[![Build Status](https://travis-ci.org/Seik/cookiecutter-kotlin.svg?branch=master)](https://travis-ci.org/Seik/cookiecutter-kotlin)
+[![Build Status](https://travis-ci.org/seik/cookiecutter-kotlin.svg?branch=master)](https://travis-ci.org/seik/cookiecutter-kotlin)
 
 A [cookiecutter](https://github.com/audreyr/cookiecutter) template for [Gradle](http://gradle.org) based [Kotlin](http://kotlinlang.org) projects.
 ## Usage
